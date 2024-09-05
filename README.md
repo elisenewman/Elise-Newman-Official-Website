@@ -5,7 +5,7 @@
 <body>
     <h1>Welcome to My Web Page</h1>
     <a href="mailto:example@thing.com">
-        <img src="img/4032.jpg">
+        <img src="img/img:first">
     </a>
     <p>Hello! Welcome to Elise Newman's website! This website is created using basic html formatting.</p>
   <p>Here is my ordered list. It has links to Mizzou websites.</p>
