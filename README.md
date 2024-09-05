@@ -5,7 +5,7 @@
 <body>
     <h1>Welcome to My Web Page</h1>
     <a href="mailto:example@thing.com">
-        <img src="https://www.google.com/imgres?q=image&imgurl=https%3A%2F%2Fletsenhance.io%2Fstatic%2F8f5e523ee6b2479e26ecc91b9c25261e%2F1015f%2FMainAfter.jpg&imgrefurl=https%3A%2F%2Fletsenhance.io%2F&docid=-t22bY2ix3gHaM&tbnid=tYmxDgFq4MrkJM&vet=12ahUKEwiAhZmTpKWIAxULMTQIHaGpKscQM3oECBgQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwiAhZmTpKWIAxULMTQIHaGpKscQM3oECBgQAA" alt="Placeholder Image">
+        <img src="img/4032.jpg">
     </a>
     <p>Hello! Welcome to Elise Newman's website! This website is created using basic html formatting.</p>
   <p>Here is my ordered list. It has links to Mizzou websites.</p>
